@@ -47,3 +47,6 @@ youtube-dl.zsh
 *.iml
 
 tmp/
+
+# Keep
+!.gitkeep
